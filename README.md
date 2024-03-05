@@ -27,13 +27,14 @@ Fusion is the successor of the RAMPAGE GX web browser.
   - Discord, Messanger, Twitch, and more!
   - Catalog of Extensions
 
-  <b>RAMPAGE Bird</b>
+  <b>Bird Messanger</b>
   - Builtin Messanger, No Logs, no data is stored on servers.
   - Fast and reliable communication, everything is instant and not recored.
 
   <b>Supported Operating Systems</b>
   - Windows
-  MacOS and Linux binaries will be released soon.
+    
+  *MacOS and Linux binaries will be released soon.*
 
  <b>Translation</b>
   - EN (English)
