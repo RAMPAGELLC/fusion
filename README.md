@@ -28,7 +28,8 @@ Do **NOT** report bugs with specific extensions unless its an issue with the Fus
   - Reduced computer usage compared to popular engines such as Chrome.
 
   <b>Builtin Features Users Love</b>
-  - Free VPN by RAMPAGE Interactive
+  - Free VPN
+  - Built-in Ad-block
   - Discord, Messanger, Twitch, and more!
   - Catalog of Extensions
 
