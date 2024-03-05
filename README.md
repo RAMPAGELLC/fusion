@@ -15,6 +15,11 @@ At RAMPAGE Interactive, we're driven by a commitment to provide a browser that p
 
 Fusion is the successor of the RAMPAGE GX web browser. 
 
+<h1 align="center">Bug Reports</h1>
+Report issues with Fusion Browser here: https://github.com/RAMPAGELLC/fusion/issues
+
+Do **NOT** report bugs with specific extensions unless its an issue with the Fusion Extension API/Fusion Core.
+
 <h1 align="center">Features</h1>
 
  <b>Noteable Features</b>
